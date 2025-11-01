@@ -35,7 +35,7 @@ Before running Terraform, make sure you have:
 
 ## ⚙️ Configuration
 
-Open the file `ec2_java_deploy.tf` and set these variables:
+Open the file `ec2_java.tf` and set these variables:
 
 ```hcl
 key_name      = "your-ec2-keypair"      # existing EC2 key pair name
